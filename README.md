@@ -38,16 +38,16 @@ Users are prompted to enter a number x and then guess a number between 1 and x. 
 
 
 
-##Requirements Definition :
-	-Users can view a leaderboard
-	-Users can sign in or play as a guest
-	-Users will be prompted to select a game mode (Sudden Death Mode vs Health) 
-	-Random number generator, flexible and able to change range of numbers easily
-	-User input for range of numbers
-	-User input for answer
-	-User profile customization (name, photo, etc)
-	-Users can sign in using a google account (maybe)
-	-Embedded covid-19 stats app
-	-When the user inputs an invalid value it shows a relative error popup (negative, out of range, etc.)
-	-End screen when the player loses, play again or main menu
-	-If a user ends up on the leaderboard as a guest, they can enter a name
+##Requirements Definition :<br/>
+	-Users can view a leaderboard<br/>
+	-Users can sign in or play as a guest<br/>
+	-Users will be prompted to select a game mode (Sudden Death Mode vs Health) <br/>
+	-Random number generator, flexible and able to change range of numbers easily<br/>
+	-User input for range of numbers<br/>
+	-User input for answer<br/>
+	-User profile customization (name, photo, etc)<br/>
+	-Users can sign in using a google account (maybe)<br/>
+	-Embedded covid-19 stats app<br/>
+	-When the user inputs an invalid value it shows a relative error popup (negative, out of range, etc.)<br/>
+	-End screen when the player loses, play again or main menu<br/>
+	-If a user ends up on the leaderboard as a guest, they can enter a name<br/>
