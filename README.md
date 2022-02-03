@@ -40,7 +40,7 @@ Users are prompted to enter a number x and then guess a number between 1 and x. 
 
 
  
-Requirements Definition:
+Requirements Definition:<br/>
 •	Users can view a leaderboard<br/>
 •	Users can sign in or play as a guest<br/>
 •	Users will be prompted to select a game mode (Sudden Death Mode vs Health)<br/>
