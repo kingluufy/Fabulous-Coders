@@ -1,3 +1,7 @@
+/*
+Members: Jeffrey Jiang, Prabhjot Dhaliwal, Karnveer Ubhi, Naman Rai
+ */
+
 import java.util.Scanner;
 
 public class NumberGuesser {
@@ -5,7 +9,7 @@ public class NumberGuesser {
         //various constructors
         Scanner input =  new Scanner(System.in);
         Utilities utilities = new Utilities();
-        GameSettings setup = new GameSettings(utilities.getRange(), utilities.getTries(), 0);
+        GameSettings setup = new GameSettings(utilities.getRange(), utilities.getTries());
 
         //set the secret number using random number generator
         setup.setAnswer(utilities.randNumGen(setup.getRange()));

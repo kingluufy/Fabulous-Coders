@@ -3,11 +3,10 @@ public class GameSettings {
     private int tries;
     private int answer;
     private int guess;
-    GameSettings(int range, int tries, int answer) {
+    GameSettings(int range, int tries) {
 
         this.range = range;
         this.tries = tries;
-        this.answer = answer;
     }
 
     public int getGuess() {
