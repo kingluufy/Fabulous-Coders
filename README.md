@@ -33,8 +33,8 @@
 
 ---
 
-##Project Description : 
-Users are prompted to enter a number x and then guess a number between 1 and x. The app includes 2 game modes, one where the user inputs the number of tries they get, and another where they keep guessing until they get it wrong. The user is going to be able to adjust the difficulty by increase the range of numbers to guess. Other inclusions into this project include a password system where users can make a local account and login to save their scores. In addition, the app will include a widget section in the menu, where we plan to include multiple “side apps” which include information such as weather, or COVID-19 stats. Another feature is you can set a profile picture for your account. The game is going to be single player only, and there will be a local leaderboard.##
+**Project Description : **
+Users are prompted to enter a number x and then guess a number between 1 and x. The app includes 2 game modes, one where the user inputs the number of tries they get, and another where they keep guessing until they get it wrong. The user is going to be able to adjust the difficulty by increase the range of numbers to guess. Other inclusions into this project include a password system where users can make a local account and login to save their scores. In addition, the app will include a widget section in the menu, where we plan to include multiple “side apps” which include information such as weather, or COVID-19 stats. Another feature is you can set a profile picture for your account. The game is going to be single player only, and there will be a local leaderboard.
 
 
 
